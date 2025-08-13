@@ -1,3 +1,4 @@
+
 #code:
 from keras.datasets import mnist
 from keras.models import Sequential
@@ -23,3 +24,4 @@ y_test))
 #output with codeI(screenshot):
 <img width="614" height="381" alt="Screenshot 2025-08-13 112517" src="https://github.com/user-attachments/assets/c84b64f1-5c33-4c0a-b0e7-978b063b929e" />
 <img width="944" height="172" alt="Screenshot 2025-08-13 112530" src="https://github.com/user-attachments/assets/22fc14df-dede-4c0b-a8cb-1295da97c6ce" />
+<img width="1487" height="519" alt="Screenshot 2025-08-13 114716" src="https://github.com/user-attachments/assets/08ff7b62-b485-4b32-bf4b-57599158a90c" />
